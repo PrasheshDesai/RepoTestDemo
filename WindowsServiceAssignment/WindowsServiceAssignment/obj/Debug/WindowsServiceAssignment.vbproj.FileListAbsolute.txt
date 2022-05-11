@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\bin\Debug\WindowsServiceAssignment.exe.config
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\bin\Debug\WindowsServiceAssignment.exe
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\bin\Debug\WindowsServiceAssignment.pdb
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\bin\Debug\WindowsServiceAssignment.xml
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.Resources.resources
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.ProjectInstaller.resources
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.exe
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.xml
+C:\Users\Admin\source\repos\WindowsServiceAssignment\WindowsServiceAssignment\obj\Debug\WindowsServiceAssignment.pdb
